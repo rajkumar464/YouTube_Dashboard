@@ -1,4 +1,4 @@
-# YouTube_Dashboard
+# YouTube Channel Analytics Dashboard
 An interactive dashboard to view your channel's performance over several different measures and also analyze each video's performance, built using Streamlit.</br>
 
 * After cloning the repository to your system, please install the requirements as seen in the text file included in the repo. 
